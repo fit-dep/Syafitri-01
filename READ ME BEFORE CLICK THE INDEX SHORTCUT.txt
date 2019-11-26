@@ -1,0 +1,13 @@
+Dear user, 
+File asli berada di C:\xampp\htdocs\bakeryshop\docs\examples\bakeryshop
+saya menggunakan example template carousel yang ada di bootstrap-3.4.1.
+
+Dalam Web Bakery Shop terdapat 4 empat link:
+index.html
+bread.html
+dessert.html
+cake.html
+
+Untuk gambar yang digunakan terdapat pada folder img
+dan css menggunakan caousel.css
+
